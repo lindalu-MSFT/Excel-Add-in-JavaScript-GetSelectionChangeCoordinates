@@ -12,7 +12,7 @@
 * [Additional resources](#additional-resources)
 
 <a name="summary"></a>
-##Summary
+## Summary
 This sample add-in shows how to detect when the selection changes in a table (matrix) in Excel 2013, and then how to display the table columns and rows included in the selection.
 
 <a name="prerequisites"></a>
